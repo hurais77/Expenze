@@ -1,0 +1,43 @@
+.container
+{
+    width: 50%;
+    display: flex;
+  justify-content: center;
+    align-items: center;
+}
+
+.card-img
+{
+    padding-top: 50px;
+    width: 50%;
+    height: 50%;
+    margin: 0 auto;
+}
+
+.card
+{
+    background-color: rgb(31, 31, 31);  
+    width: 100%;
+    border-radius: 15px; 
+}
+.form-control
+{
+    background-color: grey;
+    color:white
+}
+.form-control::placeholder
+{
+    color:white
+}
+.btn-navy
+{
+    background-color:  #041a35;
+    color: white!important; 
+    transition: background-color 1s;
+}
+
+.btn-navy:hover
+{
+    background-color:  #66c0fc !important;
+    
+}

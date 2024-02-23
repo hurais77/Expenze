@@ -1,0 +1,14 @@
+.navbar-custom {
+    background-color: #1F2833;
+}
+
+.dropdown-menu
+{
+    width: 1px !important;
+    color: red;
+}
+
+li
+{
+    font-size: larger;
+}
