@@ -1,5 +1,6 @@
 # Expenze
-A full stack expense tracking web application made using ReactJs as a frontend and Spring Boot as backend for the RestAPI
+A full stack expense tracking web application made using ReactJs as a frontend and Spring Boot as backend for the RestAPI.
+Used MySQL as a database and Spring JPA repository to retrieve data from the DB.
 
 # Screenshots
 
